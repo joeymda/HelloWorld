@@ -9,5 +9,6 @@ doing stuff on a branch
 can I create stuff in Master and pull in to branch-A?
 some branch-A specific stuff
 
+new branch A fancy stuff
 
 some new fancy shit in Master branch
