@@ -10,4 +10,4 @@ can I create stuff in Master and pull in to branch-A?
 some branch-A specific stuff
 
 
-some new fancy shit in branch A
+some new fancy shit in Master branch
