@@ -1,4 +1,7 @@
 # HelloWorld
+
+Adding a line from local cloned copy
+
 First Git repo for learning purposes
 
 
@@ -18,3 +21,4 @@ AAAAAAAAAAAA
 
 MASTER MASTER
 A A A A A A A A
+
